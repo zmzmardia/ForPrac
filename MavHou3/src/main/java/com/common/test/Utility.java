@@ -9,7 +9,7 @@ public class Utility {
 	}
 	
 	public void type() {
-		
+		//this is for sysout
 	}
 
 }
