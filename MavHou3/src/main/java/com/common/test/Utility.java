@@ -7,5 +7,9 @@ public class Utility {
 	public Utility(WebDriver dr) {
 		this.dr = dr;
 	}
+	
+	public void type() {
+		
+	}
 
 }
